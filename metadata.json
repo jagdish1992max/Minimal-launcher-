@@ -1,0 +1,6 @@
+{
+  "name": "Minimal Launcher",
+  "description": "A clean, minimal, modern Android home screen replacement with widgets, swipe gestures, and icon pack support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
